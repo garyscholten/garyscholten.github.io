@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RgbHistogramView.qml</file>
+        <file>document-open.png</file>
+        <file>pics/ann.jpg</file>
+        <file>pics/test.png</file>
+    </qresource>
+</RCC>
